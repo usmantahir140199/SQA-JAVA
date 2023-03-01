@@ -1,0 +1,1 @@
+Linear Search in Java is a searching algorithm that is used to find the index of the desired element in an array. It is the simplest and most basic searching algorithm. In this algorithm, we sequentially visit each element of an array until the target element is found.

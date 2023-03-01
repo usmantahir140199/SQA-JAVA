@@ -1,0 +1,4 @@
+Integer.MIN_VALUE
+Integer.MIN_VALUE is a constant in the Integer class of java.lang package that specifies that stores the minimum possible value for any integer variable in Java. The actual value of this is
+
+-2^31 = -2147483648
